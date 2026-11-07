@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="CONVERSATION ASSISTANT">
+<rect width="1200" height="270" rx="18" fill="#102e33"/>
+<path d="M920 0v270M980 0v270M1040 0v270M1100 0v270M1160 0v270M880 60h320M880 120h320M880 180h320M880 240h320" stroke="#24474d"/>
+<circle cx="960" cy="155" r="10" fill="#75e1c2"/><circle cx="1040" cy="100" r="10" fill="#75e1c2"/><circle cx="1120" cy="135" r="10" fill="#75e1c2"/>
+<path d="M960 155l80-55 80 35" fill="none" stroke="#75e1c2" stroke-width="3"/>
+<text x="48" y="58" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#75e1c2">PYTHON / TELEGRAM / LANGUAGE MODEL APIs</text>
+<text x="44" y="135" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#f5faf9">CONVERSATION ASSISTANT</text>
+<text x="48" y="185" font-family="Arial,sans-serif" font-size="21" fill="#c1d6d6">Image preparation / OCR / Reply suggestions</text>
+<text x="48" y="232" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#75e1c2">REPRODUCIBLE DEMO / SYNTHETIC DATA</text>
+</svg>
